@@ -16,5 +16,5 @@ Item | Quantity | Unit Price | Net Price
 
 **\*Note: Items with an asterisk (\*) can be easily replaced, and do not necessarily need to be bought (depending on the current
 situation)**
-## Net Price (without items marked with an asterisk \*): $
-## Net Price (with items marked with an asterisk \*): $
+## Net Price (without items marked with an asterisk \*): $121.89
+## Net Price (with items marked with an asterisk \*): $221.35
