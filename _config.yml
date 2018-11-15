@@ -2,3 +2,4 @@ theme: jekyll-theme-cayman
 title: Accessible Virtual Keyboard
 description: An inexpensive predictive virtual keyboard for people with communication disabilities.
 show_downloads: true
+include: CONTRIBUTING.md
