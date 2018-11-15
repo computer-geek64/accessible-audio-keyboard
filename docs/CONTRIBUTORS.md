@@ -8,6 +8,6 @@
 ## I would like to join this list. How can I help the project?
 The following areas need improvement:
 - [ ] Bug fixes
-- [x] Translations
 - [ ] Spelling, grammar, punctuation, and formatting
+- [ ] Machine learning algorithm revision (TensorFlow with Python)
 For more information, please refer to the [CONTRIBUTING.md](/docs/CONTRIBUTING.md) file.
