@@ -76,7 +76,7 @@ Please read the [CONTRIBUTE.md](/docs/CONTRIBUTE.md) file for details on our cod
 This project uses [git](https://git-scm.com/) version control.
 
 ## Sources
-See the [SOURCES.md] file for information gathered to help create this project.
+See the [SOURCES.md](/docs/SOURCES.md) file for information gathered to help create this project.
 
 ## Developers
 * **Ashish D'Souza** - *Sole developer* - [computer-geek64](https://github.com/computer-geek64/)
