@@ -10,4 +10,5 @@ The following areas need improvement:
 - [ ] Bug fixes
 - [ ] Spelling, grammar, punctuation, and formatting
 - [ ] Machine learning algorithm revision (TensorFlow with Python)
+
 For more information, please refer to the [CONTRIBUTING.md](/docs/CONTRIBUTING.md) file.
