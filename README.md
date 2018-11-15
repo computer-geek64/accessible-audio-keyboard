@@ -11,6 +11,8 @@ The following items are needed for this project:
 * **1x** Display for Raspberry Pi 3 Model B+
 * **1x** Analog speaker for Raspberry Pi 3 Model B+
 
+For a complete list of parts, see the [parts-list.md](/docs/parts-list.md) file.
+
 ### Prerequisites
 After obtaining the previous items, install a Linux or Unix operating system (preferrably [Raspbian](https://www.raspberrypi.org/downloads/raspbian/)).
 
