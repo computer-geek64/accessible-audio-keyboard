@@ -1,5 +1,5 @@
 # Accessible Virtual Keyboard
-*November 14th, 2018*
+*November 15th, 2018*
 
 ## Dedicated to Benjamin Knapp
 Approximately 7 years ago, Benjamin Knapp experienced cardiac arrest. Today, he has difficulty moving and speaking, but can
