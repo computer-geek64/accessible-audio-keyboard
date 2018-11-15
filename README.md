@@ -73,7 +73,7 @@ Explain each function of the accessible virtual keyboard.
 Please read the [CONTRIBUTE.md](/docs/CONTRIBUTE.md) file for details on our code of conduct and pull request policy.
 
 ## Versioning
-This project uses [Git](https://git-scm.com/) version control.
+This project uses [git](https://git-scm.com/) version control.
 
 ## Developers
 * **Ashish D'Souza** - *Sole developer* - [computer-geek64](https://github.com/computer-geek64/)
