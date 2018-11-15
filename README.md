@@ -84,7 +84,7 @@ See the [sources.md](/docs/sources.md) file for information gathered to help cre
 See also the list of [contributors](/docs/CONTRIBUTORS.md) who participated in this project.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details.
 
 ## Acknowledgements
 * **Benjamin Knapp**
