@@ -1,5 +1,5 @@
 # Contributing
-*November 14th, 2018*
+*November 15th, 2018*
 
 ## How to Contribute
 This is an open-source project. Constructive input is always welcome from everyone. In order to make contributing to this project
@@ -44,4 +44,7 @@ All submissions, including submissions by project members, require review. For t
 when making modifications.
 
 ## Community Guidelines
-This project follows
+This project follows [GitHub's Community Guidelines](https://help.github.com/articles/github-community-guidelines/).
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
