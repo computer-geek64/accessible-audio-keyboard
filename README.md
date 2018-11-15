@@ -19,13 +19,38 @@ For a complete list of parts, see the [parts-list.md](/docs/parts-list.md) file.
 After obtaining the previous items, install a Linux or Unix operating system (preferrably [Raspbian](https://www.raspberrypi.org/downloads/raspbian/)).
 
 ## Installation
-A step-by-step guide with examples that tell you how to install the program.
+1. Install and update packages
+```bash
+apt-get update --fix-missing -y
+apt-get dist-upgrade -y
+apt-get autoremove -y
+apt-get autoclean -y
+```
+2. Install Python 3.6 (if not already installed)
+```bash
+apt-get install python3 -y
+```
+3. Install Python packages
+```bash
+pip install tensorflow; pip3 install tensorflow
+pip install numpy; pip3 install numpy
+pip install autocomplete; pip3 install autocomplete
+pip install kivy; pip3 install kivy
+pip install gTTS; pip3 install gTTS
+```
+4. Clone/download the repository
+* Clone repository: `git clone https://github.com/computer-geek64/accessible-virtual-keyboard/`
+* Download repository: `wget https://github.com/computer-geek64/accessible-virtual-keyboard/archive/master.zip; unzip master.zip`
+5. Execute `Main.py`
 
 ### Deployment
-Any additional notes on how to deploy the virtual accessible keyboard on the system.
+* Before executing the program, ensure that the line `#!/usr/bin/python3` is at the top of `Main.py`. If it is not, make sure to
+add it there before running `./Main.py`. The other alternative is to use the `python3` command as so: `python3 Main.py`.
+* Always ensure that the line endings are compatible with the operating system that you are using.
+* If a warning message surfaces regarding `pip`, execute the following command: `python -m pip install --upgrade pip; python3 -m pip install --upgrade pip`
 
 ## Execution
-A step-by-step guide with examples that tell you how to execute the program.
+* After `Main.py` is executed (either by running `./Main.py` or `python3 Main.py`), a GUI (Graphical User Interface) should appear.
 
 ### Functionality
 Explain each function of the accessible virtual keyboard.
