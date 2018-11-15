@@ -39,7 +39,7 @@ Explain each function of the accessible virtual keyboard.
   * [MyoWare Muscle Sensors](https://www.sparkfun.com/products/13723) - *Arduino-based electromyography (EMG) sensor for muscle control*
 
 ## Contributing
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and pull request policy.
+Please read [CONTRIBUTING.md](/docs/CONTRIBUTING.md) for details on our code of conduct and pull request policy.
 
 ## Versioning
 This project uses [Git](https://git-scm.com/) version control.
@@ -47,10 +47,10 @@ This project uses [Git](https://git-scm.com/) version control.
 ## Developers
 * **Ashish D'Souza** - *Sole developer* - [computer-geek64](https://github.com/computer-geek64/)
 
-See also the list of [contributors](CONTRIBUTORS.md) who participated in this project.
+See also the list of [contributors](/docs/CONTRIBUTORS.md) who participated in this project.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](/docs/LICENSE) file for details.
 
 ## Acknowledgements
 * Mr. Knapp
