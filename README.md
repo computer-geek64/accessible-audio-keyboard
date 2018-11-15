@@ -5,10 +5,10 @@ A predictive virtual keyboard that can be controlled with two binary inputs. Thi
 
 ## Getting Started
 The following items are needed for this project:
-* **1x** [Raspberry Pi 3 Model B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/)
-* **2x** [MyoWare Muscle Sensors](https://www.sparkfun.com/products/13723)
-* **1x** Display for Raspberry Pi 3 Model B+
-* **1x** Analog speaker for Raspberry Pi 3 Model B+
+[ ] **1x** [Raspberry Pi 3 Model B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/)
+[ ] **2x** [MyoWare Muscle Sensors](https://www.sparkfun.com/products/13723)
+[ ] **1x** Display for Raspberry Pi 3 Model B+
+[ ] **1x** Analog speaker for Raspberry Pi 3 Model B+
 
 ### Prerequisites
 After obtaining the previous items, install a Linux or Unix operating system (preferrably [Raspbian](https://www.raspberrypi.org/downloads/raspbian/)).
