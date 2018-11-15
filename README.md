@@ -1,4 +1,4 @@
-# Accessible Virtual Keyboard for Communication Disabilities
+# Accessible Virtual Keyboard
 *November 14th, 2018*
 
 A predictive virtual keyboard that can be controlled with two binary inputs. This keyboard can be installed on a Raspberry Pi and connected to two [MyoWare Muscle Sensors](https://www.sparkfun.com/products/13723) to allow people with disabilities to communicate concisely and efficiently.
