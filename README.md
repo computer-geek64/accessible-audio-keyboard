@@ -75,6 +75,9 @@ Please read the [CONTRIBUTE.md](/docs/CONTRIBUTE.md) file for details on our cod
 ## Versioning
 This project uses [git](https://git-scm.com/) version control.
 
+## Sources
+See the [SOURCES.md] file for information gathered to help create this project.
+
 ## Developers
 * **Ashish D'Souza** - *Sole developer* - [computer-geek64](https://github.com/computer-geek64/)
 
@@ -85,7 +88,7 @@ This project is licensed under the MIT License - see the [LICENSE](/docs/LICENSE
 
 ## Acknowledgements
 * **Benjamin Knapp**
-  * This project is dedicated to you. I hope this project will help you find your own voice again.
+  * This is dedicated to you. I hope this project will help you find your own voice again.
 * **Christopher Knapp**
   * Project founder
   * Thank you for such an amazing opportunity to help others
