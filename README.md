@@ -1,15 +1,17 @@
 # Accessible Virtual Keyboard
 *November 14th, 2018*
-## This project is dedicated to Benjamin Knapp
 
-A predictive virtual keyboard that can be controlled with two binary inputs. This keyboard can be installed on a Raspberry Pi and connected to two [MyoWare Muscle Sensors](https://www.sparkfun.com/products/13723) to allow people with disabilities to communicate concisely and efficiently.
+## Dedicated to Benjamin Knapp
+Approximately 7 years ago, Benjamin Knapp experienced cardiac arrest. Today, he has difficulty moving and speaking, but can
+communicate with others by squeezing his fingers and opening his mouth. These small muscle movements can be used to create an
+efficient communication device that will be able to help Ben type his thoughts on a virtual keyboard, and even speak words and sentences with the aid of a text-to-speech program. This project's purpose is to develop a predictive virtual keyboard that can be controlled with two binary inputs. This keyboard can be installed on a Raspberry Pi and connected to two [MyoWare Muscle Sensors](https://www.sparkfun.com/products/13723) to allow people with disabilities to communicate concisely and efficiently.
 
 ## Getting Started
 The following items are needed for this project:
 * **1x** [Raspberry Pi 3 Model B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/)
 * **2x** [MyoWare Muscle Sensors](https://www.sparkfun.com/products/13723)
 * **1x** Display for Raspberry Pi 3 Model B+
-* **1x** Analog speaker for Raspberry Pi 3 Model B+
+* **1x** Speaker for Raspberry Pi 3 Model B+
 
 For a complete list of parts, see the [parts-list.md](/docs/parts-list.md) file.
 
@@ -56,5 +58,8 @@ See also the list of [contributors](/docs/CONTRIBUTORS.md) who participated in t
 This project is licensed under the MIT License - see the [license](/docs/LICENSE) file for details.
 
 ## Acknowledgements
-* Mr. Knapp
-* Ben Knapp
+* **Benjamin Knapp**
+  * This project is dedicated to you. I hope this project will help you find your own voice again.
+* **Christopher Knapp**
+  * Project founder
+  * Thank you for such an amazing opportunity to help others
