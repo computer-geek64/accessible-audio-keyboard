@@ -1,6 +1,7 @@
 # Accessible Virtual Keyboard
 *November 14th, 2018*
 
+## This project is dedicated to Benjamin Knapp
 A predictive virtual keyboard that can be controlled with two binary inputs. This keyboard can be installed on a Raspberry Pi and connected to two [MyoWare Muscle Sensors](https://www.sparkfun.com/products/13723) to allow people with disabilities to communicate concisely and efficiently.
 
 ## Getting Started
