@@ -44,7 +44,4 @@ All submissions, including submissions by project members, require review. For t
 when making modifications.
 
 ## Community Guidelines
-This project follows [GitHub's Community Guidelines](https://help.github.com/articles/github-community-guidelines/).
-
-## License
-This project is licensed under the MIT License - see the [license](LICENSE) file for details.
+This project follows
