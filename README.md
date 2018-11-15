@@ -37,6 +37,7 @@ Explain each function of the accessible virtual keyboard.
     * [NumPy](http://www.numpy.org/) - *Scientific computation package*
     * [Autocomplete](https://pypi.org/project/autocomplete/) - *Basic autocomplete functionality*
     * [Kivy](https://kivy.org/) - *GUI (Graphical User Interface) front-end development*
+    * [gTTS](https://pypi.org/project/gTTS/) - *Google Text-to-Speech*
   * IDE: [JetBrains](https://www.jetbrains.com/pycharm/) - *High-end integrated development environment for Python*
   * Shell: [GNU Bash](https://www.gnu.org/software/bash/) - *Open-source Bourne Again Shell*
 * Hardware:
