@@ -18,7 +18,7 @@ class Layout:
             ["H", "I", "J", "K", "L", "M", "N"],
             ["O", "P", "Q", "R", "S", "T", "U"],
             ["V", "W", "X", "Y", "Z", " ", ".,?!"],
-            ["Backspace", "Clear", "Speak", "Shift", "0-9", "Delete Word", "Settings"]
+            ["Backspace", "Clear", "Speak", "Shift", "0-9", "Del_Word", "Settings"]
         ]
 
     def set_alphabet(self, alphabet):
