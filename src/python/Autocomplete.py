@@ -11,7 +11,7 @@ import autocomplete
 autocomplete.load()
 
 
-def predict_character(text, max_suggestions=26):
+def predict_character(text, max_suggestions=27):
     if " " not in text:
         results = autocomplete.predict_currword(text, top_n=max_suggestions)
         characters = [x[0][len(text)] if not x[0][len(text):] == "" else " " for x in results]
