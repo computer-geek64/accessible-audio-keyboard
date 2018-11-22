@@ -8,7 +8,7 @@ import Autocomplete
 
 class Layout:
     def __init__(self, width=7, height=6):
-        self.alphabet = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"]
+        self.alphabet = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z", " "]
         self.words = ["The", "I", "Yes", "No", "You", "Can", "Is"]
         self.width = width
         self.height = height
@@ -27,11 +27,11 @@ class Layout:
 
     def get_alphabet(self, text, shift=False):
         if text == "":
-            return list(map(str.upper, self.alphabet)) + [" ", ".,?!"]
+            return list(map(str.upper, self.alphabet)) + [".,?!"]
         else:
             predictions = Autocomplete.predict_character(text, max_suggestions=27)
-            alphabet = predictions + [x for x in self.alphabet if x not in predictions]
-            return alphabet if not shift else list(map(str.upper, alphabet)) + [".,?!"]
+            alphabet = predictions + [x for x in self.alphabet if x not in predictions] + [".,?!"]
+            return alphabet if not shift else list(map(str.upper, alphabet))
 
     def set_words(self, words):
         self.keyboard[0] = words
