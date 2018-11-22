@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
-title: Accessible Virtual Keyboard
-description: An inexpensive predictive virtual keyboard for people with communication disabilities.
+title: Accessible Audio Keyboard
+description: An inexpensive predictive audio keyboard for people with communication disabilities.
 show_downloads: true
 include: CONTRIBUTING.md, LICENSE.md
