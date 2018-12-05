@@ -19,6 +19,7 @@ After obtaining the previous items, install a Linux or Unix operating system (pr
 ## Installation
 1. Install and update packages
 ```bash
+sudo -i
 apt-get update --fix-missing -y
 apt-get dist-upgrade -y
 apt-get autoremove -y
