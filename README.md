@@ -1,5 +1,5 @@
 # Accessible Audio Keyboard
-*December 5th, 2018*
+*February 4th, 2019*
 
 ## Dedicated to Benjamin Knapp
 In 2011, Benjamin Knapp stopped breathing one night and lost oxygen to his brain, suffering from a severe brain injury known as cerebral hypoxia. Today, he has difficulty moving, speaking, and seeing, but can communicate with others by squeezing his fingers and opening his mouth. These small muscle movements can be used to create an efficient communication device that will be able to help Ben type his thoughts on an audio keyboard with the aid of a text-to-speech program. This project's purpose is to develop a predictive audio keyboard that can be controlled with two binary inputs. This keyboard can be installed on a Raspberry Pi and connected to two [MyoWare Muscle Sensors](https://www.sparkfun.com/products/13723) to allow people with disabilities to communicate concisely and effectively.
